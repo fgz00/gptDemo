@@ -6,5 +6,6 @@
 * 需要maven3.6+版本
 
 
+
 使用ollama在本地部署大模型请参考文章
 https://mp.weixin.qq.com/s/Ranttcjv9l6U6jmaD6tVFg
