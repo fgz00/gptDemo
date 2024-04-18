@@ -1,0 +1,18 @@
+# Spring配置
+spring:
+  # spring ai模块
+  ai:
+    openai:
+      # 配置openAI的api-key
+      api-key: sk-xxxxxx
+    ollama:
+      base-url: http://127.0.0.1:11434
+      chat:
+        model: qwen1-7b
+
+
+
+# 开发环境配置
+server:
+  # 服务器的HTTP端口，默认为8080
+  port: 8080
